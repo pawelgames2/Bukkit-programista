@@ -1,0 +1,7 @@
+name: VanishPawelek
+version: 1.0
+main: pl.pawelgames2.vanishPawelek.VanishPawelek
+
+commands:
+  vanish:
+    aliases: v
